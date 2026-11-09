@@ -1,0 +1,646 @@
+{
+ "id": "ppfas-ppchf",
+ "name": "Parag Parikh Conservative Hybrid Fund",
+ "amc": "PPFAS Mutual Fund",
+ "asOf": "2026-09-30",
+ "source": {
+  "page": "https://amc.ppfas.com/downloads/portfolio-disclosure/",
+  "file": "https://amc.ppfas.com/downloads/portfolio-disclosure/2026/PPCHF_PPFAS_Monthly_Portfolio_Report_September_30_2026.xlsx"
+ },
+ "holdings": [
+  {
+   "key": "INE347G01014",
+   "isin": "INE347G01014",
+   "name": "Petronet LNG Limited",
+   "industry": "Gas",
+   "kind": "equity",
+   "pct": 2.09
+  },
+  {
+   "key": "INE522F01014",
+   "isin": "INE522F01014",
+   "name": "Coal India Limited",
+   "industry": "Consumable Fuels",
+   "kind": "equity",
+   "pct": 2.07
+  },
+  {
+   "key": "INE154A01025",
+   "isin": "INE154A01025",
+   "name": "ITC Limited",
+   "industry": "Diversified FMCG",
+   "kind": "equity",
+   "pct": 2.02
+  },
+  {
+   "key": "INE752E01010",
+   "isin": "INE752E01010",
+   "name": "Power Grid Corporation of India Limited",
+   "industry": "Power",
+   "kind": "equity",
+   "pct": 1.97
+  },
+  {
+   "key": "INE134E01011",
+   "isin": "INE134E01011",
+   "name": "Power Finance Corporation Limited",
+   "industry": "Finance",
+   "kind": "equity",
+   "pct": 0.97
+  },
+  {
+   "key": "INE277A01016",
+   "isin": "INE277A01016",
+   "name": "Swaraj Engines Limited",
+   "industry": "Industrial Products",
+   "kind": "equity",
+   "pct": 0.64
+  },
+  {
+   "key": "INE121J01017",
+   "isin": "INE121J01017",
+   "name": "Indus Towers Limited",
+   "industry": "Telecom - Services",
+   "kind": "equity",
+   "pct": 0.07
+  },
+  {
+   "key": "INE0FDU25010",
+   "isin": "INE0FDU25010",
+   "name": "Brookfield India Real Estate Trust",
+   "industry": "Realty",
+   "kind": "other",
+   "pct": 5.06
+  },
+  {
+   "key": "INE041025011",
+   "isin": "INE041025011",
+   "name": "Embassy Office Parks REIT",
+   "industry": "Realty",
+   "kind": "other",
+   "pct": 5.01
+  },
+  {
+   "key": "INE1JAR25012",
+   "isin": "INE1JAR25012",
+   "name": "Knowledge Realty Trust",
+   "industry": "Realty",
+   "kind": "other",
+   "pct": 2.34
+  },
+  {
+   "key": "IN3120250623",
+   "isin": "IN3120250623",
+   "name": "7.21% Tamilnadu SDL (MD 21/01/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 5.55
+  },
+  {
+   "key": "IN3320200295",
+   "isin": "IN3320200295",
+   "name": "7.08% Uttar Pradesh SDL (MD 17/02/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 4.27
+  },
+  {
+   "key": "IN1920240232",
+   "isin": "IN1920240232",
+   "name": "7.08% Karnataka SDL (MD 12/08/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 3.99
+  },
+  {
+   "key": "IN2220220171",
+   "isin": "IN2220220171",
+   "name": "7.72% Maharashtra SDL (MD 01/03/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 3.66
+  },
+  {
+   "key": "IN2220220239",
+   "isin": "IN2220220239",
+   "name": "7.72% Maharashtra SDL (MD 23/03/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 2.91
+  },
+  {
+   "key": "IN1920250272",
+   "isin": "IN1920250272",
+   "name": "7.38% Karnataka SDL (MD 04/09/2034)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 2.69
+  },
+  {
+   "key": "IN2220220254",
+   "isin": "IN2220220254",
+   "name": "7.73% Maharashtra SDL (MD 29/03/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 2.48
+  },
+  {
+   "key": "INE976I07DF6",
+   "isin": "INE976I07DF6",
+   "name": "8.15% Tata Capital Ltd NCD (MD 11/06/2029)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 2.46
+  },
+  {
+   "key": "IN2220220122",
+   "isin": "IN2220220122",
+   "name": "7.76% Maharashtra SDL (MD 04/10/2030)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 2.2
+  },
+  {
+   "key": "INE115A07QU9",
+   "isin": "INE115A07QU9",
+   "name": "7.75% LIC Housing Fin Ltd NCD Tr444 (MD23/08/29)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 2.16
+  },
+  {
+   "key": "INE556F08KX8",
+   "isin": "INE556F08KX8",
+   "name": "7.49% SIDBI NCD Ser VIII (MD 11/06/2029)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 2.15
+  },
+  {
+   "key": "INE556F08KW0",
+   "isin": "INE556F08KW0",
+   "name": "7.42% SIDBI NCD Sr VII (MD 12/03/2029)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 2.15
+  },
+  {
+   "key": "INE041007217",
+   "isin": "INE041007217",
+   "name": "7.49% Embassy Off Park RE NCD Sr XVII (22/06/2029)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 2.14
+  },
+  {
+   "key": "IN2220210073",
+   "isin": "IN2220210073",
+   "name": "6.78% Maharashtra SDL (MD 25/05/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.55
+  },
+  {
+   "key": "IN3120220188",
+   "isin": "IN3120220188",
+   "name": "7.82% Tamilnadu SDL (MD 27/10/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.46
+  },
+  {
+   "key": "IN1520220071",
+   "isin": "IN1520220071",
+   "name": "7.61% Gujarat SDL (MD 03/08/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.45
+  },
+  {
+   "key": "IN2220230055",
+   "isin": "IN2220230055",
+   "name": "7.33% Maharashtra SDL (MD 31/05/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.44
+  },
+  {
+   "key": "INE261F08EJ7",
+   "isin": "INE261F08EJ7",
+   "name": "7.64% NABARD Sr 25B NCD (MD 06/12/2029)",
+   "industry": "ICRA AAA",
+   "kind": "debt",
+   "pct": 1.44
+  },
+  {
+   "key": "INE296A07TJ4",
+   "isin": "INE296A07TJ4",
+   "name": "7.3763% Bajaj Fina NCD (MD 26/06/2028) #",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 1.43
+  },
+  {
+   "key": "INE261F08EL3",
+   "isin": "INE261F08EL3",
+   "name": "7.40 % NABARD NCD Sr 25D (MD 29/04/2030)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 1.42
+  },
+  {
+   "key": "IN1520250136",
+   "isin": "IN1520250136",
+   "name": "7.01% Gujarat SDL (MD 03/09/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.42
+  },
+  {
+   "key": "IN3120250722",
+   "isin": "IN3120250722",
+   "name": "7.12% Tamilnadu SDL (MD 18/02/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.42
+  },
+  {
+   "key": "IN1920230316",
+   "isin": "IN1920230316",
+   "name": "7.36% Karnataka SDL (MD 13/03/2034)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.42
+  },
+  {
+   "key": "IN2120240246",
+   "isin": "IN2120240246",
+   "name": "7.14% Madhya Pradesh SDL (MD 19/03/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.42
+  },
+  {
+   "key": "IN3320200329",
+   "isin": "IN3320200329",
+   "name": "7.17% Uttar Pradesh SDL (MD 10/03/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.29
+  },
+  {
+   "key": "IN3120230021",
+   "isin": "IN3120230021",
+   "name": "7.39% Tamilnadu SDL (MD 10/05/2033)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.29
+  },
+  {
+   "key": "IN1920230068",
+   "isin": "IN1920230068",
+   "name": "7.7% Karnataka SDL (MD 08/11/2033)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.16
+  },
+  {
+   "key": "IN1920220168",
+   "isin": "IN1920220168",
+   "name": "7.6% Karnataka SDL (MD 04/01/2033)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.01
+  },
+  {
+   "key": "IN2220220197",
+   "isin": "IN2220220197",
+   "name": "7.7% Maharashtra SDL (MD 08/03/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.73
+  },
+  {
+   "key": "IN0020240076",
+   "isin": "IN0020240076",
+   "name": "7.02% GOI (MD 18/06/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.73
+  },
+  {
+   "key": "IN3120240020",
+   "isin": "IN3120240020",
+   "name": "7.5% Tamilnadu SDL (MD 24/04/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.73
+  },
+  {
+   "key": "INE556F08KY6",
+   "isin": "INE556F08KY6",
+   "name": "7.39% SIDBI NCD Ser IX (MD 21/03/2030)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.71
+  },
+  {
+   "key": "INE296A07UB9",
+   "isin": "INE296A07UB9",
+   "name": "7.7% Bajaj Fin Ltd NCD (MD 20/09/2029) #",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.71
+  },
+  {
+   "key": "INE261F08EV2",
+   "isin": "INE261F08EV2",
+   "name": "7.16% NABARD NCD SR 27A (MD 14/12/2029) #",
+   "industry": "ICRA AAA",
+   "kind": "debt",
+   "pct": 0.71
+  },
+  {
+   "key": "INE296A07RD1",
+   "isin": "INE296A07RD1",
+   "name": "7.60% Bajaj Fin Ltd NCD Opt 1 (MD 11/02/2030)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.71
+  },
+  {
+   "key": "INE0KUG08076",
+   "isin": "INE0KUG08076",
+   "name": "7.03%National Bk Fin Infra tranch I NCD (MD8/4/30)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.7
+  },
+  {
+   "key": "INE115A07RG6",
+   "isin": "INE115A07RG6",
+   "name": "7.07% LIC Hsg Fin Tr 455 NCD (MD 29/04/2030)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.7
+  },
+  {
+   "key": "INE296A07TL0",
+   "isin": "INE296A07TL0",
+   "name": "7.38% Bajaj Finance Ltd NCD Opt II (MD 28/06/2030) #",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.7
+  },
+  {
+   "key": "INE0KUG08100",
+   "isin": "INE0KUG08100",
+   "name": "6.86% National Bk Fin Infra TR I (MD 13/11/2030)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.7
+  },
+  {
+   "key": "IN1920210169",
+   "isin": "IN1920210169",
+   "name": "6.89% Karnataka SDL (MD 15/12/2033)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.69
+  },
+  {
+   "key": "IN2020180070",
+   "isin": "IN2020180070",
+   "name": "8.48% Kerala SDL (MD 08/08/2030)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.45
+  },
+  {
+   "key": "INE219X07520",
+   "isin": "INE219X07520",
+   "name": "7.07% IndiGrid Inf NCD SR AF (20/06/2030)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.42
+  },
+  {
+   "key": "IN1920200327",
+   "isin": "IN1920200327",
+   "name": "6.75% Karnataka SDL (MD 14/10/2033)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.41
+  },
+  {
+   "key": "IN1020180361",
+   "isin": "IN1020180361",
+   "name": "8.43% Andhra Pradesh SDL (MD 05/12/2030)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.3
+  },
+  {
+   "key": "IN2920220190",
+   "isin": "IN2920220190",
+   "name": "7.84% Rajasthan SDL (MD 27/10/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.29
+  },
+  {
+   "key": "IN2920220042",
+   "isin": "IN2920220042",
+   "name": "7.83% Rajasthan SDL (MD 22/06/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.29
+  },
+  {
+   "key": "IN2920220349",
+   "isin": "IN2920220349",
+   "name": "7.78% Rajasthan SDL (MD 29/03/2033)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.29
+  },
+  {
+   "key": "IN2220230071",
+   "isin": "IN2220230071",
+   "name": "7.34% Maharashtra SDL (MD 14/06/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.29
+  },
+  {
+   "key": "IN1520210213",
+   "isin": "IN1520210213",
+   "name": "7.12% Gujarat SDL (MD 02/03/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.28
+  },
+  {
+   "key": "IN3120240376",
+   "isin": "IN3120240376",
+   "name": "7.1% Tamilnadu SDL (MD 27/11/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.28
+  },
+  {
+   "key": "IN2220200231",
+   "isin": "IN2220200231",
+   "name": "7.05% Maharashtra SDL (MD 07/10/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.28
+  },
+  {
+   "key": "IN1920240331",
+   "isin": "IN1920240331",
+   "name": "7.03% Karnataka SDL (MD 26/09/2033)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.28
+  },
+  {
+   "key": "IN1920210144",
+   "isin": "IN1920210144",
+   "name": "6.88% Karnataka SDL (MD 08/12/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.28
+  },
+  {
+   "key": "IN1920250132",
+   "isin": "IN1920250132",
+   "name": "7.15% Karnataka SDL (MD 28/07/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.17
+  },
+  {
+   "key": "IN2820180106",
+   "isin": "IN2820180106",
+   "name": "8.61% Punjab SDL (MD 14/11/2028)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.15
+  },
+  {
+   "key": "IN1020140134",
+   "isin": "IN1020140134",
+   "name": "8.5% Andhra Pradesh SDL (MD 28/03/2029)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.15
+  },
+  {
+   "key": "IN2920220018",
+   "isin": "IN2920220018",
+   "name": "7.7% Rajasthan SDL (MD 18/05/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "INE219X07215",
+   "isin": "INE219X07215",
+   "name": "7.7% IndiGRID Infra Trust Ser 3 (MD 06/05/2028)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "IN2220230063",
+   "isin": "IN2220230063",
+   "name": "7.32% Maharashtra SDL (MD 31/05/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "IN3120210510",
+   "isin": "IN3120210510",
+   "name": "7.3% Tamilnadu SDL (MD 30/03/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "IN1920240299",
+   "isin": "IN1920240299",
+   "name": "7.22% Karnataka SDL (MD 05/09/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "IN3120240616",
+   "isin": "IN3120240616",
+   "name": "7.21% Tamilnadu SDL (MD 05/09/2032)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "IN3120210171",
+   "isin": "IN3120210171",
+   "name": "6.97% Tamilnadu SDL (MD 18/08/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "IN3120210213",
+   "isin": "IN3120210213",
+   "name": "6.97% Tamilnadu SDL (MD 13/10/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "IN1920210151",
+   "isin": "IN1920210151",
+   "name": "6.83% Karnataka SDL (MD 15/12/2031)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "IN002026Z136",
+   "isin": "IN002026Z136",
+   "name": "364 Days Tbill (MD 01/07/2027)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.14
+  },
+  {
+   "key": "INF0RQ622028",
+   "isin": "INF0RQ622028",
+   "name": "Corporate Debt Market Development Fund - Class A2 Units",
+   "kind": "units",
+   "pct": 0.28
+  },
+  {
+   "key": "INF879O01068",
+   "isin": "INF879O01068",
+   "name": "Parag Parikh Liquid Fund- Direct Plan- Growth",
+   "kind": "units",
+   "pct": 1.01
+  },
+  {
+   "key": "trp 011026",
+   "name": "TRP_011026",
+   "kind": "other",
+   "pct": 1.28
+  },
+  {
+   "key": "net receivables payables",
+   "name": "Net Receivables / (Payables)",
+   "kind": "cash",
+   "pct": 1.23
+  }
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "id": "ppfas-pptsf",
+ "name": "Parag Parikh ELSS Tax Saver Fund",
+ "amc": "PPFAS Mutual Fund",
+ "asOf": "2026-09-30",
+ "source": {
+  "page": "https://amc.ppfas.com/downloads/portfolio-disclosure/",
+  "file": "https://amc.ppfas.com/downloads/portfolio-disclosure/2026/PPTSF_PPFAS_Monthly_Portfolio_Report_September_30_2026.xlsx"
+ },
+ "holdings": [
+  {
+   "key": "INE040A01034",
+   "isin": "INE040A01034",
+   "name": "HDFC Bank Limited",
+   "industry": "Banks",
+   "kind": "equity",
+   "pct": 7.57
+  },
+  {
+   "key": "INE118A01012",
+   "isin": "INE118A01012",
+   "name": "Bajaj Holdings & Investment Limited",
+   "industry": "Finance",
+   "kind": "equity",
+   "pct": 7.05
+  },
+  {
+   "key": "INE752E01010",
+   "isin": "INE752E01010",
+   "name": "Power Grid Corporation of India Limited",
+   "industry": "Power",
+   "kind": "equity",
+   "pct": 6.58
+  },
+  {
+   "key": "INE522F01014",
+   "isin": "INE522F01014",
+   "name": "Coal India Limited",
+   "industry": "Consumable Fuels",
+   "kind": "equity",
+   "pct": 6.46
+  },
+  {
+   "key": "INE288A01013",
+   "isin": "INE288A01013",
+   "name": "Maharashtra Scooters Limited",
+   "industry": "Finance",
+   "kind": "equity",
+   "pct": 5.5
+  },
+  {
+   "key": "INE154A01025",
+   "isin": "INE154A01025",
+   "name": "ITC Limited",
+   "industry": "Diversified FMCG",
+   "kind": "equity",
+   "pct": 5.02
+  },
+  {
+   "key": "INE090A01021",
+   "isin": "INE090A01021",
+   "name": "ICICI Bank Limited",
+   "industry": "Banks",
+   "kind": "equity",
+   "pct": 4.86
+  },
+  {
+   "key": "INE237A01036",
+   "isin": "INE237A01036",
+   "name": "Kotak Mahindra Bank Limited",
+   "industry": "Banks",
+   "kind": "equity",
+   "pct": 4.7
+  },
+  {
+   "key": "INE860A01027",
+   "isin": "INE860A01027",
+   "name": "HCL Technologies Limited",
+   "industry": "IT - Software",
+   "kind": "equity",
+   "pct": 4.36
+  },
+  {
+   "key": "INE238A01034",
+   "isin": "INE238A01034",
+   "name": "Axis Bank Limited",
+   "industry": "Banks",
+   "kind": "equity",
+   "pct": 3.63
+  },
+  {
+   "key": "INE585B01010",
+   "isin": "INE585B01010",
+   "name": "Maruti Suzuki India Limited",
+   "industry": "Automobiles",
+   "kind": "equity",
+   "pct": 3.53
+  },
+  {
+   "key": "INE101A01026",
+   "isin": "INE101A01026",
+   "name": "Mahindra & Mahindra Limited",
+   "industry": "Automobiles",
+   "kind": "equity",
+   "pct": 3.51
+  },
+  {
+   "key": "INE397D01024",
+   "isin": "INE397D01024",
+   "name": "Bharti Airtel Limited",
+   "industry": "Telecom - Services",
+   "kind": "equity",
+   "pct": 3.41
+  },
+  {
+   "key": "INE009A01021",
+   "isin": "INE009A01021",
+   "name": "Infosys Limited",
+   "industry": "IT - Software",
+   "kind": "equity",
+   "pct": 3.13
+  },
+  {
+   "key": "INE421D01022",
+   "isin": "INE421D01022",
+   "name": "CCL Products (India) Limited",
+   "industry": "Agricultural Food & other Products",
+   "kind": "equity",
+   "pct": 2.65
+  },
+  {
+   "key": "INE925R01014",
+   "isin": "INE925R01014",
+   "name": "CMS Info System Limited",
+   "industry": "Commercial Services & Supplies",
+   "kind": "equity",
+   "pct": 2.48
+  },
+  {
+   "key": "INE010B01027",
+   "isin": "INE010B01027",
+   "name": "Zydus Lifesciences Limited",
+   "industry": "Pharmaceuticals & Biotechnology",
+   "kind": "equity",
+   "pct": 1.75
+  },
+  {
+   "key": "INE467B01029",
+   "isin": "INE467B01029",
+   "name": "Tata Consultancy Services Limited",
+   "industry": "IT - Software",
+   "kind": "equity",
+   "pct": 1.73
+  },
+  {
+   "key": "INE089A01031",
+   "isin": "INE089A01031",
+   "name": "Dr. Reddy's Laboratories Limited",
+   "industry": "Pharmaceuticals & Biotechnology",
+   "kind": "equity",
+   "pct": 1.39
+  },
+  {
+   "key": "INE059A01026",
+   "isin": "INE059A01026",
+   "name": "Cipla Limited",
+   "industry": "Pharmaceuticals & Biotechnology",
+   "kind": "equity",
+   "pct": 1.37
+  },
+  {
+   "key": "INE075A01022",
+   "isin": "INE075A01022",
+   "name": "Wipro Limited",
+   "industry": "IT - Software",
+   "kind": "equity",
+   "pct": 1.37
+  },
+  {
+   "key": "INE976A01021",
+   "isin": "INE976A01021",
+   "name": "West Coast Paper Mills Limited",
+   "industry": "Paper, Forest & Jute Products",
+   "kind": "equity",
+   "pct": 1.29
+  },
+  {
+   "key": "INE04VU01023",
+   "isin": "INE04VU01023",
+   "name": "Seshaasai Technologies Limited",
+   "industry": "Financial Technology (Fintech)",
+   "kind": "equity",
+   "pct": 1.18
+  },
+  {
+   "key": "INE768C01028",
+   "isin": "INE768C01028",
+   "name": "Zydus Wellness Limited",
+   "industry": "Food Products",
+   "kind": "equity",
+   "pct": 1.1
+  },
+  {
+   "key": "INE710A01016",
+   "isin": "INE710A01016",
+   "name": "VST Industries Limited",
+   "industry": "Cigarettes & Tobacco Products",
+   "kind": "equity",
+   "pct": 0.87
+  },
+  {
+   "key": "INE022Q01020",
+   "isin": "INE022Q01020",
+   "name": "Indian Energy Exchange Limited",
+   "industry": "Capital Markets",
+   "kind": "equity",
+   "pct": 0.78
+  },
+  {
+   "key": "INE597I01028",
+   "isin": "INE597I01028",
+   "name": "Sharda Motor Industries Ltd.",
+   "industry": "Auto Components",
+   "kind": "equity",
+   "pct": 0.66
+  },
+  {
+   "key": "INE271C01023",
+   "isin": "INE271C01023",
+   "name": "DLF Limited",
+   "industry": "Realty",
+   "kind": "equity",
+   "pct": 0.56
+  },
+  {
+   "key": "INE203G01027",
+   "isin": "INE203G01027",
+   "name": "Indraprastha Gas Limited",
+   "industry": "Gas",
+   "kind": "equity",
+   "pct": 0.48
+  },
+  {
+   "key": "INE126A01031",
+   "isin": "INE126A01031",
+   "name": "EID Parry India Limited",
+   "industry": "Food Products",
+   "kind": "equity",
+   "pct": 0.45
+  },
+  {
+   "key": "INE410P01011",
+   "isin": "INE410P01011",
+   "name": "Narayana Hrudayalaya Limited",
+   "industry": "Healthcare Services",
+   "kind": "equity",
+   "pct": 0.35
+  },
+  {
+   "key": "INE209A01019",
+   "isin": "INE209A01019",
+   "name": "Sundrop Brands Ltd",
+   "industry": "Food Products",
+   "kind": "equity",
+   "pct": 0.26
+  },
+  {
+   "key": "INE736A01011",
+   "isin": "INE736A01011",
+   "name": "Central Depository Services (India) Limited",
+   "industry": "Capital Markets",
+   "kind": "equity",
+   "pct": 0.24
+  },
+  {
+   "key": "INE277A01016",
+   "isin": "INE277A01016",
+   "name": "Swaraj Engines Limited",
+   "industry": "Industrial Products",
+   "kind": "equity",
+   "pct": 0.21
+  },
+  {
+   "key": "INE347G01014",
+   "isin": "INE347G01014",
+   "name": "Petronet LNG Limited",
+   "industry": "Gas",
+   "kind": "equity",
+   "pct": 0.11
+  },
+  {
+   "key": "INE121J01017",
+   "isin": "INE121J01017",
+   "name": "Indus Towers Limited",
+   "industry": "Telecom - Services",
+   "kind": "equity",
+   "pct": 0.1
+  },
+  {
+   "key": "INE002S01010",
+   "isin": "INE002S01010",
+   "name": "Mahanagar Gas Limited",
+   "industry": "Gas",
+   "kind": "equity",
+   "pct": 0.08
+  },
+  {
+   "key": "INE536H01010",
+   "isin": "INE536H01010",
+   "name": "CIE Automotive India Limited",
+   "industry": "Auto Components",
+   "kind": "equity",
+   "pct": 0.05
+  },
+  {
+   "key": "INE725G01011",
+   "isin": "INE725G01011",
+   "name": "ICRA Limited",
+   "industry": "Capital Markets",
+   "kind": "equity",
+   "pct": 0.05
+  },
+  {
+   "key": "INE317F01035",
+   "isin": "INE317F01035",
+   "name": "Nesco Limited",
+   "industry": "Commercial Services & Supplies",
+   "kind": "equity",
+   "pct": 0.03
+  },
+  {
+   "key": "INE076B01028",
+   "isin": "INE076B01028",
+   "name": "Siyaram Silk Mills Limited",
+   "industry": "Textiles & Apparels",
+   "kind": "equity",
+   "pct": 0.02
+  },
+  {
+   "key": "INE041025011",
+   "isin": "INE041025011",
+   "name": "Embassy Office Parks REIT",
+   "industry": "Realty",
+   "kind": "other",
+   "pct": 2.58
+  },
+  {
+   "key": "INE0FDU25010",
+   "isin": "INE0FDU25010",
+   "name": "Brookfield India Real Estate Trust",
+   "industry": "Realty",
+   "kind": "other",
+   "pct": 2.53
+  },
+  {
+   "key": "INE1JAR25012",
+   "isin": "INE1JAR25012",
+   "name": "Knowledge Realty Trust",
+   "industry": "Realty",
+   "kind": "other",
+   "pct": 0.52
+  },
+  {
+   "key": "INE076B04022",
+   "isin": "INE076B04022",
+   "name": "Siyaram Silk Mills Limited (Preference Share)",
+   "industry": "Textiles & Apparels",
+   "kind": "other",
+   "pct": 0
+  },
+  {
+   "key": "INE076B04014",
+   "isin": "INE076B04014",
+   "name": "Siyaram Silk Mills Limited (Preference Share)",
+   "industry": "Textiles & Apparels",
+   "kind": "other",
+   "pct": 0
+  },
+  {
+   "key": "IN002025Z419",
+   "isin": "IN002025Z419",
+   "name": "364 Days Tbill (MD 15/01/2027)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.18
+  },
+  {
+   "key": "IN002026Z136",
+   "isin": "IN002026Z136",
+   "name": "364 Days Tbill (MD 01/07/2027)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.09
+  },
+  {
+   "key": "trp 011026",
+   "name": "TRP_011026",
+   "kind": "other",
+   "pct": 3.18
+  },
+  {
+   "key": "net receivables payables",
+   "name": "Net Receivables / (Payables)",
+   "kind": "cash",
+   "pct": 0
+  }
+ ]
+}

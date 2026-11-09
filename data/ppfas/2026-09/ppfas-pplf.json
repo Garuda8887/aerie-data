@@ -1,0 +1,355 @@
+{
+ "id": "ppfas-pplf",
+ "name": "Parag Parikh Liquid Fund",
+ "amc": "PPFAS Mutual Fund",
+ "asOf": "2026-09-30",
+ "source": {
+  "page": "https://amc.ppfas.com/downloads/portfolio-disclosure/",
+  "file": "https://amc.ppfas.com/downloads/portfolio-disclosure/2026/PPLF_PPFAS_Monthly_Portfolio_Report_September_30_2026.xlsx"
+ },
+ "holdings": [
+  {
+   "key": "INE403D08207",
+   "isin": "INE403D08207",
+   "name": "8.95% Bharti Telecom NCD Ser XVII (MD 04/12/2026)",
+   "industry": "CRISIL AAA",
+   "kind": "debt",
+   "pct": 2.2
+  },
+  {
+   "key": "IN1620160227",
+   "isin": "IN1620160227",
+   "name": "7.39% Haryana SDL (MD 09/11/2026)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.48
+  },
+  {
+   "key": "IN2920160180",
+   "isin": "IN2920160180",
+   "name": "7.37% Rajasthan SDL (MD 09/11/2026)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.48
+  },
+  {
+   "key": "IN2120160071",
+   "isin": "IN2120160071",
+   "name": "7.4% Madhya Pradesh SDL (MD 09/11/2026)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.48
+  },
+  {
+   "key": "IN1520220154",
+   "isin": "IN1520220154",
+   "name": "7.57% Gujarat SDL (MD 09/11/2026)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.19
+  },
+  {
+   "key": "IN1020160371",
+   "isin": "IN1020160371",
+   "name": "7.42% Andhra Pradesh SDL (MD 09/11/2026)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 0.1
+  },
+  {
+   "key": "INE476A16K97",
+   "isin": "INE476A16K97",
+   "name": "Canara Bank (23/11/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 4.74
+  },
+  {
+   "key": "INE238AD6BO6",
+   "isin": "INE238AD6BO6",
+   "name": "Axis Bank Limited (26/11/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 4.74
+  },
+  {
+   "key": "INE040A16JY7",
+   "isin": "INE040A16JY7",
+   "name": "HDFC Bank Limited (04/11/2026)",
+   "industry": "CARE A1+",
+   "kind": "debt",
+   "pct": 3.8
+  },
+  {
+   "key": "INE040A16HY1",
+   "isin": "INE040A16HY1",
+   "name": "HDFC Bank Limited (19/11/2026)",
+   "industry": "CARE A1+",
+   "kind": "debt",
+   "pct": 3.79
+  },
+  {
+   "key": "INE476A16F78",
+   "isin": "INE476A16F78",
+   "name": "Canara Bank (18/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 3.77
+  },
+  {
+   "key": "INE556F16BU6",
+   "isin": "INE556F16BU6",
+   "name": "Small Industries Dev Bank of India (18/12/2026)",
+   "industry": "CARE A1+",
+   "kind": "debt",
+   "pct": 3.3
+  },
+  {
+   "key": "INE028A16MQ2",
+   "isin": "INE028A16MQ2",
+   "name": "Bank of Baroda (07/12/2026)",
+   "industry": "IND A1+",
+   "kind": "debt",
+   "pct": 3.21
+  },
+  {
+   "key": "INE562A16QO6",
+   "isin": "INE562A16QO6",
+   "name": "Indian Bank (10/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 2.36
+  },
+  {
+   "key": "INE028A16MW0",
+   "isin": "INE028A16MW0",
+   "name": "Bank of Baroda (11/11/2026)",
+   "industry": "CARE A1+",
+   "kind": "debt",
+   "pct": 1.9
+  },
+  {
+   "key": "INE238AD6CA3",
+   "isin": "INE238AD6CA3",
+   "name": "Axis Bank Limited (16/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 1.89
+  },
+  {
+   "key": "INE238AD6CB1",
+   "isin": "INE238AD6CB1",
+   "name": "Axis Bank Limited (17/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 1.89
+  },
+  {
+   "key": "INE237AD6158",
+   "isin": "INE237AD6158",
+   "name": "Kotak Mahindra Bank Limited (21/12/2026) #",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 1.7
+  },
+  {
+   "key": "INE556F16BR2",
+   "isin": "INE556F16BR2",
+   "name": "Small Industries Dev Bank of India (10/11/2026)",
+   "industry": "CARE A1+",
+   "kind": "debt",
+   "pct": 1.42
+  },
+  {
+   "key": "INE238AD6BP3",
+   "isin": "INE238AD6BP3",
+   "name": "Axis Bank Limited (27/11/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 1.42
+  },
+  {
+   "key": "INE556F16BL5",
+   "isin": "INE556F16BL5",
+   "name": "Small Industries Dev Bank of India (13/10/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 0.95
+  },
+  {
+   "key": "INE476A16J90",
+   "isin": "INE476A16J90",
+   "name": "Canara Bank (08/12/2026) #",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 0.47
+  },
+  {
+   "key": "INE514E14TS9",
+   "isin": "INE514E14TS9",
+   "name": "Export Import Bank of India (04/11/2026) #",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 4.75
+  },
+  {
+   "key": "INE556F14MR4",
+   "isin": "INE556F14MR4",
+   "name": "Small Industries Dev Bank of India (02/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 4.73
+  },
+  {
+   "key": "INE115A14FY0",
+   "isin": "INE115A14FY0",
+   "name": "LIC Housing Finance Limited (26/11/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 3.79
+  },
+  {
+   "key": "INE134E14BA2",
+   "isin": "INE134E14BA2",
+   "name": "Power Finance Corporation Limited (09/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 3.78
+  },
+  {
+   "key": "INE976I14RX5",
+   "isin": "INE976I14RX5",
+   "name": "Tata Capital Limited (04/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 3.78
+  },
+  {
+   "key": "INE261F14QG5",
+   "isin": "INE261F14QG5",
+   "name": "National Bank For Agriculture and Rural Development (11/12/2026)",
+   "industry": "ICRA A1+",
+   "kind": "debt",
+   "pct": 3.78
+  },
+  {
+   "key": "INE261F14QD2",
+   "isin": "INE261F14QD2",
+   "name": "National Bank For Agriculture and Rural Development (27/11/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 2.84
+  },
+  {
+   "key": "INE763G14O34",
+   "isin": "INE763G14O34",
+   "name": "ICICI Securities Limited (22/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 2.82
+  },
+  {
+   "key": "INE976I14RV9",
+   "isin": "INE976I14RV9",
+   "name": "Tata Capital Limited (23/11/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 1.89
+  },
+  {
+   "key": "INE700G14VU1",
+   "isin": "INE700G14VU1",
+   "name": "HDFC Securities Limited (26/11/2026)",
+   "industry": "ICRA A1+",
+   "kind": "debt",
+   "pct": 1.89
+  },
+  {
+   "key": "INE028E14XX2",
+   "isin": "INE028E14XX2",
+   "name": "Kotak Securities Limited (27/11/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 1.89
+  },
+  {
+   "key": "INE514E14TT7",
+   "isin": "INE514E14TT7",
+   "name": "Export Import Bank of India (04/12/2026)",
+   "industry": "CRISIL A1+",
+   "kind": "debt",
+   "pct": 1.89
+  },
+  {
+   "key": "INE296A14K14",
+   "isin": "INE296A14K14",
+   "name": "Bajaj Finance Limited (03/12/2026)",
+   "industry": "ICRA A1+",
+   "kind": "debt",
+   "pct": 1.89
+  },
+  {
+   "key": "INE296A14D13",
+   "isin": "INE296A14D13",
+   "name": "Bajaj Finance Limited (04/11/2026)",
+   "industry": "ICRA A1+",
+   "kind": "debt",
+   "pct": 0.95
+  },
+  {
+   "key": "INE296A14K22",
+   "isin": "INE296A14K22",
+   "name": "Bajaj Finance Limited (07/12/2026)",
+   "industry": "ICRA A1+",
+   "kind": "debt",
+   "pct": 0.47
+  },
+  {
+   "key": "IN002026Y030",
+   "isin": "IN002026Y030",
+   "name": "182 Days Tbill (MD 22/10/2026)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.91
+  },
+  {
+   "key": "IN002026X156",
+   "isin": "IN002026X156",
+   "name": "91 Days Tbill (MD 15/10/2026)",
+   "industry": "Sovereign",
+   "kind": "debt",
+   "pct": 1.34
+  },
+  {
+   "key": "INF0RQ622028",
+   "isin": "INF0RQ622028",
+   "name": "Corporate Debt Market Development Fund - Class A2 Units",
+   "kind": "units",
+   "pct": 0.29
+  },
+  {
+   "key": "rep5 300926",
+   "name": "REP5_300926",
+   "kind": "other",
+   "pct": 8.19
+  },
+  {
+   "key": "rep4 300926",
+   "name": "REP4_300926",
+   "kind": "other",
+   "pct": 1.56
+  },
+  {
+   "key": "trp 011026",
+   "name": "TRP_011026",
+   "kind": "other",
+   "pct": 0.1
+  },
+  {
+   "key": "net receivables payables",
+   "name": "Net Receivables / (Payables)",
+   "kind": "cash",
+   "pct": 0.19
+  }
+ ]
+}

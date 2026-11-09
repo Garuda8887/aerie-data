@@ -1,0 +1,53 @@
+{
+ "schemes": [
+  {
+   "id": "ppfas-ppaf",
+   "name": "Parag Parikh Arbitrage Fund",
+   "amc": "PPFAS Mutual Fund",
+   "asOf": "2026-09-30",
+   "path": "ppfas/2026-09/ppfas-ppaf.json"
+  },
+  {
+   "id": "ppfas-ppchf",
+   "name": "Parag Parikh Conservative Hybrid Fund",
+   "amc": "PPFAS Mutual Fund",
+   "asOf": "2026-09-30",
+   "path": "ppfas/2026-09/ppfas-ppchf.json"
+  },
+  {
+   "id": "ppfas-ppdaaf",
+   "name": "Parag Parikh Dynamic Asset Allocation Fund",
+   "amc": "PPFAS Mutual Fund",
+   "asOf": "2026-09-30",
+   "path": "ppfas/2026-09/ppfas-ppdaaf.json"
+  },
+  {
+   "id": "ppfas-ppfcf",
+   "name": "Parag Parikh Flexi Cap Fund",
+   "amc": "PPFAS Mutual Fund",
+   "asOf": "2026-09-30",
+   "path": "ppfas/2026-09/ppfas-ppfcf.json"
+  },
+  {
+   "id": "ppfas-pplcf",
+   "name": "Parag Parikh Large Cap Fund",
+   "amc": "PPFAS Mutual Fund",
+   "asOf": "2026-09-30",
+   "path": "ppfas/2026-09/ppfas-pplcf.json"
+  },
+  {
+   "id": "ppfas-pplf",
+   "name": "Parag Parikh Liquid Fund",
+   "amc": "PPFAS Mutual Fund",
+   "asOf": "2026-09-30",
+   "path": "ppfas/2026-09/ppfas-pplf.json"
+  },
+  {
+   "id": "ppfas-pptsf",
+   "name": "Parag Parikh ELSS Tax Saver Fund",
+   "amc": "PPFAS Mutual Fund",
+   "asOf": "2026-09-30",
+   "path": "ppfas/2026-09/ppfas-pptsf.json"
+  }
+ ]
+}
