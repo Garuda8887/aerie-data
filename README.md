@@ -1,6 +1,6 @@
 # aerie-data
 
-Monthly mutual fund portfolio holdings as plain JSON, for the Aerie portfolio X-ray. No manual Excel downloads.
+Monthly mutual fund portfolio holdings as plain JSON, for [Aerie](https://github.com/garuda8887/aerie), the portfolio X-ray. No manual Excel downloads.
 
 Indian AMCs must publish every scheme's portfolio each month, but each one does it in a different Excel layout. This repository fetches the files from the AMCs' own sites, parses them, and keeps only the facts: scheme name, "as on" date, and each holding's ISIN, name, industry, kind and % of NAV. Every file links back to the AMC page and the exact file it came from.
 
@@ -66,7 +66,7 @@ The fetcher is deliberately polite. It names itself in the user agent, waits 2 s
 3. Add an entry to `src/amcs.ts`: `files(year, month)` returns the AMC's file URLs. Give a file a `name` if it holds one scheme; omit it for a workbook with one sheet per scheme.
 4. Run `npm run build -- --month <yyyy-mm> --amc <id>` and `npm test`, and look at a few schemes by eye.
 
-`src/parser/` is the Aerie workbook parser, copied from the Aerie repository. Re-copy it when Aerie's parser changes.
+`src/parser/` is the Aerie workbook parser, copied from the [Aerie repository](https://github.com/garuda8887/aerie). Re-copy it when Aerie's parser changes.
 
 ## Principles
 

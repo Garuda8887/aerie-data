@@ -10,7 +10,7 @@ Send from a real address and sign with a real name. Send one per AMC (compliance
 
 Hello,
 
-I maintain an open-source, non-commercial project called aerie-data (github.com/<owner>/aerie-data). It republishes the monthly scheme portfolios that AMCs must publish under SEBI rules as plain JSON, so that investors can see what is inside their funds and where their funds overlap, without downloading Excel files by hand.
+I maintain an open-source, non-commercial project called aerie-data (github.com/garuda8887/aerie-data). It republishes the monthly scheme portfolios that AMCs must publish under SEBI rules as plain JSON, so that investors can see what is inside their funds and where their funds overlap, without downloading Excel files by hand.
 
 What we would publish for <AMC name>: scheme name, "as on" date, and for each holding its ISIN, name, industry or rating and % of NAV. Nothing else. We would not copy your files, text, logos or market values. Every file links back to your own disclosure page and the exact file it came from.
 
