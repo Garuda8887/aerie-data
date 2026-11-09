@@ -44,10 +44,10 @@ for (const amc of AMCS.filter((a) => !only || a.id === only)) {
         console.warn(`${f.code}: coverage ${s.coverage.toFixed(2)}%, not written`);
         continue;
       }
-      const id = `${amc.id}-${f.code.toLowerCase()}${parsed.length > 1 ? `-${i + 1}` : ""}`;
+      const id = f.name ? `${amc.id}-${f.code.toLowerCase()}${parsed.length > 1 ? `-${i + 1}` : ""}` : `${amc.id}-${s.sheet.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
       const out = {
         id,
-        name: f.name,
+        name: f.name ?? s.name,
         amc: amc.name,
         asOf: s.asOf ?? `${month}-${new Date(Date.UTC(year, mon, 0)).getUTCDate()}`,
         source: { page: amc.page, file: f.url },
@@ -62,10 +62,11 @@ for (const amc of AMCS.filter((a) => !only || a.id === only)) {
       };
       const file = path.join(DATA, amc.id, month, `${id}.json`);
       fs.mkdirSync(path.dirname(file), { recursive: true });
-      fs.writeFileSync(file, JSON.stringify(out, null, 1) + "\n");
-      console.log(`${id}: ${s.holdings.length} lines, ${s.coverage.toFixed(2)}% of NAV`);
+      fs.writeFileSync(file, JSON.stringify(out) + "\n");
+      if (f.name) console.log(`${id}: ${s.holdings.length} lines, ${s.coverage.toFixed(2)}% of NAV`);
       wrote++;
     }
+    if (!f.name) console.log(`${amc.name}: ${parsed.length} schemes parsed from ${f.code}`);
   }
 }
 

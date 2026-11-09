@@ -31,9 +31,10 @@ If you work at an AMC (or are AMFI) and want your data removed, or would like it
 | AMC | Status |
 |---|---|
 | PPFAS Mutual Fund | 7 schemes, fetched from amc.ppfas.com |
+| SBI Mutual Fund | 119 schemes from the all-schemes workbook on sbimf.com |
 
 Others are added only after reading their terms.
 
 ## Code
 
-`src/parser/` is the Aerie workbook parser, copied from Aerie at commit `fea77c6`. Re-copy it when Aerie's parser changes. Code is MIT. The data is the AMCs' public disclosure; see above.
+`src/parser/` is the Aerie workbook parser, copied from Aerie (last synced after the SBI header-layout fix). Re-copy it when Aerie's parser changes. Code is MIT. The data is the AMCs' public disclosure; see above.

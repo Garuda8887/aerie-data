@@ -48,6 +48,839 @@
    "amc": "PPFAS Mutual Fund",
    "asOf": "2026-09-30",
    "path": "ppfas/2026-09/ppfas-pptsf.json"
+  },
+  {
+   "id": "sbi-cribxfs9-12m",
+   "name": "SBI CRISIL-IBX Financial Services 9-12 Months Debt Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-cribxfs9-12m.json"
+  },
+  {
+   "id": "sbi-criibx10-90giltsdl29",
+   "name": "SBI CRISIL-IBX 10:90 Gilt +SDL Index - Dec 2029 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-criibx10-90giltsdl29.json"
+  },
+  {
+   "id": "sbi-criibxsdlindexjune34",
+   "name": "SBI CRI IBX SDL Index-June 2034 Ind Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-criibxsdlindexjune34.json"
+  },
+  {
+   "id": "sbi-g-sec-jul2031",
+   "name": "SBI Nifty G-Sec Jul 2031 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-g-sec-jul2031.json"
+  },
+  {
+   "id": "sbi-liquidsbi",
+   "name": "SBI NIFTY 1D Rate Liquid ETF - IDCW",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-liquidsbi.json"
+  },
+  {
+   "id": "sbi-nifty200value30",
+   "name": "SBI Nifty 200 Value 30 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-nifty200value30.json"
+  },
+  {
+   "id": "sbi-niftysmallcap250",
+   "name": "SBI Nifty Small Cap 250 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-niftysmallcap250.json"
+  },
+  {
+   "id": "sbi-saof",
+   "name": "SBI Arbitrage Fund (Erstwhile known as SBI Arbitrage Opportunities Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-saof.json"
+  },
+  {
+   "id": "sbi-sbaf",
+   "name": "SBI Balanced Advantage Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbaf.json"
+  },
+  {
+   "id": "sbi-sbfs",
+   "name": "SBI Banking And Financial Services Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbfs.json"
+  },
+  {
+   "id": "sbi-sbhf",
+   "name": "SBI Balanced Hybrid Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbhf.json"
+  },
+  {
+   "id": "sbi-sbi-aof",
+   "name": "SBI Automotive Opportunities Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbi-aof.json"
+  },
+  {
+   "id": "sbi-sbi-bse-psu-bank-etf",
+   "name": "SBI BSE PSU Bank ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbi-bse-psu-bank-etf.json"
+  },
+  {
+   "id": "sbi-sbi-bse-psu-bank-index-fund",
+   "name": "SBI BSE PSU Bank Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbi-bse-psu-bank-index-fund.json"
+  },
+  {
+   "id": "sbi-sbi-bse-sensex-if",
+   "name": "SBI BSE Sensex Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbi-bse-sensex-if.json"
+  },
+  {
+   "id": "sbi-sbi-nifty100-low-vol-30",
+   "name": "SBI Nifty100 Low Volatility 30 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbi-nifty100-low-vol-30.json"
+  },
+  {
+   "id": "sbi-sbi-nifty200-mom-30",
+   "name": "SBI Nifty200 Momentum 30 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbi-nifty200-mom-30.json"
+  },
+  {
+   "id": "sbi-sbi-nifty200-quality-30",
+   "name": "SBI Nifty200 Quality 30 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbi-nifty200-quality-30.json"
+  },
+  {
+   "id": "sbi-sbidetf",
+   "name": "SBI BSE India Defence ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbidetf.json"
+  },
+  {
+   "id": "sbi-sbietfcon",
+   "name": "SBI Nifty Consumption ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbietfcon.json"
+  },
+  {
+   "id": "sbi-sbietfit",
+   "name": "SBI Nifty IT ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbietfit.json"
+  },
+  {
+   "id": "sbi-sbietfpb",
+   "name": "SBI Nifty Private Bank ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbietfpb.json"
+  },
+  {
+   "id": "sbi-sbietfqlty",
+   "name": "SBI NIFTY 200 Quality 30 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbietfqlty.json"
+  },
+  {
+   "id": "sbi-sbiliqetf",
+   "name": "SBI Nifty 1D Rate Liquid ETF - Growth",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbiliqetf.json"
+  },
+  {
+   "id": "sbi-sbirios",
+   "name": "SBI Resurgent India Opportunities Scheme",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbirios.json"
+  },
+  {
+   "id": "sbi-sbisensex",
+   "name": "SBI BSE Sensex ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbisensex.json"
+  },
+  {
+   "id": "sbi-sbluechip",
+   "name": "SBI Large Cap Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbluechip.json"
+  },
+  {
+   "id": "sbi-sbpf",
+   "name": "SBI Banking and PSU Debt Fund (Erstwhile known as SBI Banking & PSU Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sbpf.json"
+  },
+  {
+   "id": "sbi-scbf",
+   "name": "SBI Corporate Bond Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-scbf.json"
+  },
+  {
+   "id": "sbi-scf",
+   "name": "SBI Contra Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-scf.json"
+  },
+  {
+   "id": "sbi-schf",
+   "name": "SBI Conservative Hybrid Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-schf.json"
+  },
+  {
+   "id": "sbi-scigi-apr-2029",
+   "name": "SBI CRISIL IBX Gilt Index-APR-2029 Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-scigi-apr-2029.json"
+  },
+  {
+   "id": "sbi-scigi-jun-2036",
+   "name": "SBI CRISIL IBX Gilt Index- June 2036 Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-scigi-jun-2036.json"
+  },
+  {
+   "id": "sbi-scisi-sep-2027",
+   "name": "SBI CRISIL IBX SDL Index-Sept 2027 Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-scisi-sep-2027.json"
+  },
+  {
+   "id": "sbi-scof",
+   "name": "SBI Consumption Opportunities Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-scof.json"
+  },
+  {
+   "id": "sbi-scrf",
+   "name": "SBI Credit Risk Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-scrf.json"
+  },
+  {
+   "id": "sbi-scribxfs3-6m",
+   "name": "SBI CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-scribxfs3-6m.json"
+  },
+  {
+   "id": "sbi-sdaaafof",
+   "name": "SBI Dynamic Asset Allocation Active FoF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sdaaafof.json"
+  },
+  {
+   "id": "sbi-sdbf",
+   "name": "SBI Dynamic Term Fund (Erstwhile known as SBI Dynamic Bond Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sdbf.json"
+  },
+  {
+   "id": "sbi-sdyf",
+   "name": "SBI Dividend Yield Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sdyf.json"
+  },
+  {
+   "id": "sbi-sehf",
+   "name": "SBI Aggressive Hybrid Fund (Erstwhile known as SBI Equity Hybrid Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sehf.json"
+  },
+  {
+   "id": "sbi-semvf",
+   "name": "SBI Equity Minimum Variance Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-semvf.json"
+  },
+  {
+   "id": "sbi-seof",
+   "name": "SBI Energy Opportunities Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-seof.json"
+  },
+  {
+   "id": "sbi-sesf",
+   "name": "SBI Equity Savings Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sesf.json"
+  },
+  {
+   "id": "sbi-setf10gilt",
+   "name": "SBI Nifty 10 yr Benchmark G-Sec ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setf10gilt.json"
+  },
+  {
+   "id": "sbi-setfbse100",
+   "name": "SBI BSE 100 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setfbse100.json"
+  },
+  {
+   "id": "sbi-setfgold",
+   "name": "SBI Gold ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setfgold.json"
+  },
+  {
+   "id": "sbi-setfnif50",
+   "name": "SBI Nifty 50 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setfnif50.json"
+  },
+  {
+   "id": "sbi-setfnifbk",
+   "name": "SBI Nifty Bank ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setfnifbk.json"
+  },
+  {
+   "id": "sbi-setfnn50",
+   "name": "SBI Nifty Next 50 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setfnn50.json"
+  },
+  {
+   "id": "sbi-setfsilver-fof",
+   "name": "SBI Silver ETF Fund of Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setfsilver-fof.json"
+  },
+  {
+   "id": "sbi-setfsilver",
+   "name": "SBI Silver ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setfsilver.json"
+  },
+  {
+   "id": "sbi-setfsn50",
+   "name": "SBI BSE Sensex Next 50 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-setfsn50.json"
+  },
+  {
+   "id": "sbi-sfef",
+   "name": "SBI Focused Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfef.json"
+  },
+  {
+   "id": "sbi-sflexi",
+   "name": "SBI Flexicap Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sflexi.json"
+  },
+  {
+   "id": "sbi-sfmp-series-1",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 1",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-1.json"
+  },
+  {
+   "id": "sbi-sfmp-series-34",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 34",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-34.json"
+  },
+  {
+   "id": "sbi-sfmp-series-53",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 53",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-53.json"
+  },
+  {
+   "id": "sbi-sfmp-series-54",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 54",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-54.json"
+  },
+  {
+   "id": "sbi-sfmp-series-55",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 55",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-55.json"
+  },
+  {
+   "id": "sbi-sfmp-series-57",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 57",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-57.json"
+  },
+  {
+   "id": "sbi-sfmp-series-58",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 58",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-58.json"
+  },
+  {
+   "id": "sbi-sfmp-series-6",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 6",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-6.json"
+  },
+  {
+   "id": "sbi-sfmp-series-60",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 60",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-60.json"
+  },
+  {
+   "id": "sbi-sfmp-series-61",
+   "name": "SBI Fixed Maturity Plan (FMP)- Series 61",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfmp-series-61.json"
+  },
+  {
+   "id": "sbi-sfrdf",
+   "name": "SBI Floating Interest Rates Fund (Erstwhile known as SBI Floating Rate Debt Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sfrdf.json"
+  },
+  {
+   "id": "sbi-sgf",
+   "name": "SBI Gold Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sgf.json"
+  },
+  {
+   "id": "sbi-shof",
+   "name": "SBI Healthcare Opportunities Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-shof.json"
+  },
+  {
+   "id": "sbi-sia-us-equity-fof",
+   "name": "SBI US Specific Equity Active FoF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sia-us-equity-fof.json"
+  },
+  {
+   "id": "sbi-sif",
+   "name": "SBI Infrastructure Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sif.json"
+  },
+  {
+   "id": "sbi-siof",
+   "name": "SBI Innovative Opportunities Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-siof.json"
+  },
+  {
+   "id": "sbi-sipaafof",
+   "name": "SBI Income Plus Arbitrage Active FOF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sipaafof.json"
+  },
+  {
+   "id": "sbi-sldf",
+   "name": "SBI Long Term Fund (Erstwhile known as SBI Long Duration Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sldf.json"
+  },
+  {
+   "id": "sbi-slf",
+   "name": "SBI Liquid Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-slf.json"
+  },
+  {
+   "id": "sbi-slmf",
+   "name": "SBI Large and Midcap Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-slmf.json"
+  },
+  {
+   "id": "sbi-sltaf-iv",
+   "name": "SBI Long Term Advantage Fund - Series IV",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sltaf-iv.json"
+  },
+  {
+   "id": "sbi-sltaf-v",
+   "name": "SBI Long Term Advantage Fund - Series V",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sltaf-v.json"
+  },
+  {
+   "id": "sbi-sltaf-vi",
+   "name": "SBI Long Term Advantage Fund - Series VI",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sltaf-vi.json"
+  },
+  {
+   "id": "sbi-sltef",
+   "name": "SBI ELSS Tax Saver Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sltef.json"
+  },
+  {
+   "id": "sbi-smaaf",
+   "name": "SBI Multi Asset Allocation Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smaaf.json"
+  },
+  {
+   "id": "sbi-smcbf-ip",
+   "name": "SBI Children's Fund - Investment Plan (Erstwhile known as SBI Magnum Children's Benefit Fund- IP)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smcbf-ip.json"
+  },
+  {
+   "id": "sbi-smcbf-sp",
+   "name": "SBI Children's Fund - Savings Plan (Erstwhile known as SBI Magnum Children's Benefit Fund-Svg P)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smcbf-sp.json"
+  },
+  {
+   "id": "sbi-smcf",
+   "name": "SBI MultiCap Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smcf.json"
+  },
+  {
+   "id": "sbi-smcmf",
+   "name": "SBI 10 year Constant Maturity Gilt Fund (Erstwhile known as SBI Constant Maturity 10-Year Gilt Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smcmf.json"
+  },
+  {
+   "id": "sbi-smcomma",
+   "name": "SBI Comma Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smcomma.json"
+  },
+  {
+   "id": "sbi-smeef",
+   "name": "SBI ESG Exclusionary Strategy Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smeef.json"
+  },
+  {
+   "id": "sbi-smgf",
+   "name": "SBI Gilt Fund (Erstwhile known as SBI Magnum Gilt Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smgf.json"
+  },
+  {
+   "id": "sbi-smglf",
+   "name": "SBI MNC Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smglf.json"
+  },
+  {
+   "id": "sbi-smidcap",
+   "name": "SBI Midcap Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smidcap.json"
+  },
+  {
+   "id": "sbi-smif",
+   "name": "SBI Medium to Long Term Fund (Erstwhile known as SBI Medium to Long Duration Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smif.json"
+  },
+  {
+   "id": "sbi-smldf",
+   "name": "SBI Ultra Short to Short Term Fund (Erstwhile known as SBI Low Duration Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smldf.json"
+  },
+  {
+   "id": "sbi-smmdf",
+   "name": "SBI Medium Term Fund (Erstwhile known as SBI Medium Duration Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smmdf.json"
+  },
+  {
+   "id": "sbi-smusd",
+   "name": "SBI Ultra Short Term Fund (Erstwhile known as SBI Ultra Short Duration Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-smusd.json"
+  },
+  {
+   "id": "sbi-sn200v30etffof",
+   "name": "SBI Nifty200 Value 30 ETF FOF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sn200v30etffof.json"
+  },
+  {
+   "id": "sbi-sn500if",
+   "name": "SBI Nifty 500 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sn500if.json"
+  },
+  {
+   "id": "sbi-sn50ew-etf",
+   "name": "SBI Nifty50 Equal Weight ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sn50ew-etf.json"
+  },
+  {
+   "id": "sbi-sn50ewif",
+   "name": "SBI Nifty50 Equal Weight Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sn50ewif.json"
+  },
+  {
+   "id": "sbi-snbif",
+   "name": "SBI Nifty Bank Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snbif.json"
+  },
+  {
+   "id": "sbi-snicif",
+   "name": "SBI Nifty India Consumption Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snicif.json"
+  },
+  {
+   "id": "sbi-snif",
+   "name": "SBI Nifty Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snif.json"
+  },
+  {
+   "id": "sbi-snitif",
+   "name": "SBI Nifty IT Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snitif.json"
+  },
+  {
+   "id": "sbi-snm150etf",
+   "name": "SBI Nifty Midcap150 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snm150etf.json"
+  },
+  {
+   "id": "sbi-snm150if",
+   "name": "SBI Nifty Midcap 150 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snm150if.json"
+  },
+  {
+   "id": "sbi-snm150m50etf",
+   "name": "SBI Nifty Midcap 150 Momentum 50 ETF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snm150m50etf.json"
+  },
+  {
+   "id": "sbi-snm150mom50etffof",
+   "name": "SBI Nifty Midcap 150 Momentum 50 ETF FOF",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snm150mom50etffof.json"
+  },
+  {
+   "id": "sbi-snn50",
+   "name": "SBI Nifty Next 50 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-snn50.json"
+  },
+  {
+   "id": "sbi-sns250if",
+   "name": "SBI Nifty Smallcap 250 Index Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sns250if.json"
+  },
+  {
+   "id": "sbi-sof",
+   "name": "SBI Overnight Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sof.json"
+  },
+  {
+   "id": "sbi-spsu",
+   "name": "SBI PSU Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-spsu.json"
+  },
+  {
+   "id": "sbi-sqf",
+   "name": "SBI Quant Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sqf.json"
+  },
+  {
+   "id": "sbi-sqlf",
+   "name": "SBI Quality Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sqlf.json"
+  },
+  {
+   "id": "sbi-srbf-ahp",
+   "name": "SBI RETIREMENT BENEFIT FUND - AGGRESSIVE HYBRID PLAN",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-srbf-ahp.json"
+  },
+  {
+   "id": "sbi-srbf-ap",
+   "name": "SBI RETIREMENT BENEFIT FUND - AGGRESSIVE PLAN",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-srbf-ap.json"
+  },
+  {
+   "id": "sbi-srbf-chp",
+   "name": "SBI RETIREMENT BENEFIT FUND - CONSERVATIVE HYBRID PLAN",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-srbf-chp.json"
+  },
+  {
+   "id": "sbi-srbf-cp",
+   "name": "SBI RETIREMENT BENEFIT FUND - CONSERVATIVE PLAN",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-srbf-cp.json"
+  },
+  {
+   "id": "sbi-sscf",
+   "name": "SBI Smallcap Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sscf.json"
+  },
+  {
+   "id": "sbi-ssf",
+   "name": "SBI Money Market Fund (Erstwhile known as SBI Savings Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-ssf.json"
+  },
+  {
+   "id": "sbi-sstdf",
+   "name": "SBI Short Term Fund (Erstwhile known as SBI Short Term Debt Fund)",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-sstdf.json"
+  },
+  {
+   "id": "sbi-stof",
+   "name": "SBI Technology Opportunities Fund",
+   "amc": "SBI Mutual Fund",
+   "asOf": "2026-10-31",
+   "path": "sbi/2026-10/sbi-stof.json"
   }
  ]
 }

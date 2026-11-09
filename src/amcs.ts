@@ -8,8 +8,11 @@ export interface Amc {
   name: string;
   /** Page where the AMC publishes these files; linked from every output file. */
   page: string;
-  /** `name` is the plain scheme name; the parsed one carries long SEBI descriptors or falls back to a sheet code. */
-  files(year: number, month: number): { code: string; name: string; url: string }[];
+  /**
+   * With `name`: a file holding one scheme (the parsed name can carry long SEBI descriptors or fall back to a sheet code, so we set it).
+   * Without: a workbook holding every scheme on its own sheet; ids and names come from the sheets.
+   */
+  files(year: number, month: number): { code: string; name?: string; url: string }[];
 }
 
 const MONTH = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -26,7 +29,24 @@ const PPFAS: Record<string, string> = {
   PPLCF: "Parag Parikh Large Cap Fund",
 };
 
+const ord = (d: number) => (d % 10 === 1 && d !== 11 ? "st" : d % 10 === 2 && d !== 12 ? "nd" : d % 10 === 3 && d !== 13 ? "rd" : "th");
+
 export const AMCS: Amc[] = [
+  {
+    id: "sbi",
+    name: "SBI Mutual Fund",
+    page: "https://www.sbimf.com/portfolios",
+    // The page's own links end in ?sfvrsn=…, which SBI's robots.txt asks crawlers to skip; the bare path serves the same file.
+    files: (y, m) => {
+      const d = lastDay(y, m);
+      return [
+        {
+          code: "all",
+          url: `https://www.sbimf.com/docs/default-source/scheme-portfolios/all-schemes-monthly-portfolio---as-on-${d}${ord(d)}-${MONTH[m - 1].toLowerCase()}-${y}.xlsx`,
+        },
+      ];
+    },
+  },
   {
     id: "ppfas",
     name: "PPFAS Mutual Fund",
