@@ -33,7 +33,7 @@ If you work at an AMC (or are AMFI) and want your data removed, or would like it
 | PPFAS Mutual Fund | 7 schemes, fetched from amc.ppfas.com |
 | SBI Mutual Fund | 119 schemes from the all-schemes workbook on sbimf.com |
 
-Others are added only after reading their terms.
+Others are added only after reading their terms. Many AMCs can't be: their terms forbid automated copying, their sites return 403 to scripts or disallow download paths in `robots.txt`, or their files are listed only by JavaScript or forms. We don't work around any of that. Users of those AMCs upload the AMC's Excel file in Aerie instead, which is parsed locally in the browser. Per-AMC findings and a permission-request template are in [docs/permission-request.md](docs/permission-request.md).
 
 ## Code
 
