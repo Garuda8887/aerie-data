@@ -1,2 +1,30 @@
+# dependencies and build output
 node_modules
+dist
+coverage
+*.tsbuildinfo
 *.log
+*.tmp
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# secrets
+.env
+.env.*
+
+# AMC files are parsed in memory; never keep the downloads
+*.xlsx
+*.xls
+*.xlsb
+*.zip
+downloads/
+.cache/
+
+# local tooling and AI-assistant files
+.claude/
+CLAUDE.md
+AGENTS.md

@@ -1,6 +1,6 @@
 # aerie-data
 
-Monthly mutual fund portfolio holdings as plain JSON, for [Aerie](https://github.com/garuda8887/aerie), the portfolio X-ray. No manual Excel downloads.
+An open dataset of Indian mutual fund portfolio holdings: monthly scheme holdings as plain JSON (ISIN, name, industry, % of NAV), for [Aerie](https://github.com/garuda8887/aerie), the portfolio X-ray. No manual Excel downloads.
 
 Indian AMCs must publish every scheme's portfolio each month, but each one does it in a different Excel layout. This repository fetches the files from the AMCs' own sites, parses them, and keeps only the facts: scheme name, "as on" date, and each holding's ISIN, name, industry, kind and % of NAV. Every file links back to the AMC page and the exact file it came from.
 

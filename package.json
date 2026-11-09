@@ -2,6 +2,32 @@
   "name": "aerie-data",
   "version": "0.1.0",
   "description": "Monthly mutual fund portfolio holdings as plain JSON (facts only, with a link to each AMC's own disclosure). Feeds Aerie.",
+  "keywords": [
+    "mutual-funds",
+    "india",
+    "indian-mutual-funds",
+    "portfolio-holdings",
+    "mutual-fund-data",
+    "open-data",
+    "dataset",
+    "amfi",
+    "sebi",
+    "json",
+    "etl",
+    "typescript"
+  ],
+  "author": {
+    "name": "Dekrypt Security",
+    "url": "https://github.com/garuda8887"
+  },
+  "homepage": "https://github.com/garuda8887/aerie-data#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garuda8887/aerie-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/garuda8887/aerie-data/issues"
+  },
   "license": "MIT",
   "private": true,
   "type": "module",
