@@ -29,11 +29,14 @@ Thank you,
 | AMC | Scripts can fetch? | What its terms say | Status |
 |---|---|---|---|
 | SBI | Yes (bare .xlsx path) | Disclaimer has no copying or redistribution clause | Published (119 schemes). A courtesy request is still worthwhile |
-| PPFAS | Yes | Personal, non-commercial use; written consent to copy or reuse; bans "aggregating, copying or duplicating" | Published (7 schemes). Ask |
-| Aditya Birla Sun Life | Yes | Bans "any robot, spider, other automated device" and "systematic retrieval … to create or compile"; no redistribution without written consent | Not published. Needs permission |
-| LIC | Unclear (file list is a form) | Same clauses as PPFAS | Not published. Needs permission |
-| HDFC | No: 403 to scripts | not read | Not published. Needs permission and a way to fetch |
+| PPFAS | Yes | Personal, non-commercial use; written consent to copy or reuse; bans "aggregating, copying or duplicating" | Published (7 schemes). A permission request is recommended |
+| Aditya Birla Sun Life | Yes | Bans "any robot, spider, other automated device" and "systematic retrieval … to create or compile"; no redistribution without written consent | Not published. Upload only, until permission |
+| LIC | Files are listed through a year/month form | Same clauses as PPFAS | Not published. Upload only, until permission |
+| HDFC | No: 403 to scripts (the site works in a normal browser) | not read | Not published. Upload only |
+| Bandhan | Files are listed through a year/month/scheme form | not read | Not published. Upload only |
 | Nippon India | Site is `Disallow: /` in robots.txt | not read | Excluded |
 | Edelweiss, Canara Robeco | No: 403 to scripts | not read | Excluded |
-| Kotak, UTI, Motilal Oswal | Files are listed by JavaScript; no stable URL pattern found | not read yet | Needs permission or a stable source |
+| Kotak, UTI, Motilal Oswal, Mirae | Files are listed by JavaScript or a private AJAX service; no stable URL pattern | not read | Upload only |
 | DSP, Mahindra Manulife | robots.txt disallows their download paths | not read | Excluded |
+
+"Upload only" means Aerie users download the AMC's file themselves and parse it locally in the browser. Nothing is fetched or republished by this project.
